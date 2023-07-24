@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuga-webbo
 - 👀 I’m interested in Angular , ASP.Net , Flutter Application
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Web Apps
 
 <!---
 yuga-webbo/yuga-webbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
